@@ -54,7 +54,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="cyber1.jpg" />
+    <Content Include="lock.jpg" />
     <Content Include="voicegreet.wav" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
